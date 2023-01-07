@@ -10,7 +10,7 @@ header{
     background-position: center;
     background-size: cover;
     background-blend-mode: multiply;
-    min-height: 80vh;
+    min-height: 100vh;
     position: relative;
 
 }
@@ -20,6 +20,7 @@ header{
     width: 500px;
     padding: 70px 90px;
     text-align:right;
+    padding: 130px;
 }
 .banner-title{
     font-weight: 900;
@@ -42,6 +43,7 @@ header{
     height: 64px;
     border-radius: 5px;
     background: #F15B22;
+    margin-bottom: 40px;
 
 }
 
@@ -165,7 +167,7 @@ header{
 .values-section{
     display: flex;
     justify-content: center;
-
+    gap: 8px;
 }
 .values-title{
     font-weight: 400;
